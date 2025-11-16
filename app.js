@@ -1,4 +1,4 @@
-console.log(mahyar)
+console.log("mahyar")
 
 
 
@@ -9,3 +9,10 @@ var age = 30
 
 console.log(username);
 console.log(age)
+
+
+var lil = 45
+
+
+
+console.log(lil)
